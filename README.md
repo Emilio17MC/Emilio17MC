@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ## Technologies that I use 👨‍💻
 
-### Main tecnologies: 
+### Main technologies: 
 > ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 > ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 > > ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
